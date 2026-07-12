@@ -49,3 +49,9 @@ obj.display(
     age=20,
     college="Pokhara University"
 )
+obj.display(
+    name="Yasan",
+    address="Pokhara",
+    age=20,
+    college="Pokhara University"
+)
